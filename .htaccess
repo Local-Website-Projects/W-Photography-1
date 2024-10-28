@@ -1,0 +1,10 @@
+
+
+RewriteEngine on
+
+RewriteRule ^Home index.php [NE,L]
+RewriteRule ^About about.php [NE,L]
+RewriteRule ^Portfolio portfolio.php [NE,L]
+RewriteRule ^Gallery gallery.php [NE,L]
+RewriteRule ^Pricing pricing.php [NE,L]
+RewriteRule ^Contact contact.php [NE,L]
