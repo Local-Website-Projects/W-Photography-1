@@ -23,12 +23,12 @@
                         <div id="navbar" class="collapse navbar-collapse navigation-holder">
                             <button class="menu-close"><i class="ti-close"></i></button>
                             <ul class="nav navbar-nav mb-2 mb-lg-0">
-                                <li><a href="#">Home</a></li>
+                                <li><a href="Home">Home</a></li>
                                 <li><a href="About">About</a></li>
-                                <li><a href="#">Portfolio</a></li>
-                                <li><a href="#">Gallery</a></li>
-                                <li><a href="#">Pricing</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="Portfolio">Portfolio</a></li>
+                                <li><a href="Gallery">Gallery</a></li>
+                                <li><a href="Pricing">Pricing</a></li>
+                                <li><a href="Contact">Contact</a></li>
                             </ul>
                         </div><!-- end of nav-collapse -->
                     </div>
