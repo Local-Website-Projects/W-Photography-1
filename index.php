@@ -180,7 +180,7 @@
                                 <img src="assets/images/service/img-8.jpg" alt="">
                             </div>
                             <div class="wpo-Service-text">
-                                <a href="service-single.html">Bridal Dress</a>
+                                <a href="#">Wedding Photography</a>
                             </div>
                         </div>
                     </div>
@@ -190,7 +190,7 @@
                                 <img src="assets/images/service/img-9.jpg" alt="">
                             </div>
                             <div class="wpo-Service-text">
-                                <a href="service-single.html">Bridal Makeup</a>
+                                <a href="#">Birthday Photography</a>
                             </div>
                         </div>
                     </div>
@@ -200,7 +200,7 @@
                                 <img src="assets/images/service/img-10.jpg" alt="">
                             </div>
                             <div class="wpo-Service-text">
-                                <a href="service-single.html">Photography</a>
+                                <a href="#">Studio Photoshoot</a>
                             </div>
                         </div>
                     </div>
@@ -210,7 +210,7 @@
                                 <img src="assets/images/service/img-11.jpg" alt="">
                             </div>
                             <div class="wpo-Service-text">
-                                <a href="service-single.html">Mehendi Art</a>
+                                <a href="#">Maternity Photography</a>
                             </div>
                         </div>
                     </div>
@@ -220,7 +220,7 @@
                                 <img src="assets/images/service/img-12.jpg" alt="">
                             </div>
                             <div class="wpo-Service-text">
-                                <a href="service-single.html">Catering Services</a>
+                                <a href="#">Newborn Photography</a>
                             </div>
                         </div>
                     </div>
@@ -230,7 +230,7 @@
                                 <img src="assets/images/service/img-13.jpg" alt="">
                             </div>
                             <div class="wpo-Service-text">
-                                <a href="service-single.html">Decoration</a>
+                                <a href="#">Family Photoshoot</a>
                             </div>
                         </div>
                     </div>
@@ -240,7 +240,7 @@
                                 <img src="assets/images/service/img-14.jpg" alt="">
                             </div>
                             <div class="wpo-Service-text">
-                                <a href="service-single.html">Groom Ware</a>
+                                <a href="#">Outdoor Photoshoot</a>
                             </div>
                         </div>
                     </div>
@@ -349,31 +349,29 @@
                                                placeholder="Name">
                                     </div>
                                     <div>
+                                        <input type="text" class="form-control" name="contact_no" id="contact_no"
+                                               placeholder="Contact Number">
+                                    </div>
+                                    <div>
                                         <input type="email" class="form-control" name="email" id="email"
                                                placeholder="Email">
                                     </div>
                                     <div class="date">
                                         <input class="form-control" name="date" autocomplete="off" type="text"
-                                               id="datepicker" placeholder="Wedding Date">
-                                    </div>
-                                    <div>
-                                        <select name="guest" class="form-control">
-                                            <option disabled="disabled" selected>Number Of Guests</option>
-                                            <option>01</option>
-                                            <option>02</option>
-                                            <option>03</option>
-                                            <option>04</option>
-                                            <option>05</option>
-                                        </select>
+                                               id="datepicker" placeholder="Event Date">
                                     </div>
                                     <div>
                                         <select name="meal" class="form-control last">
-                                            <option disabled="disabled" selected>Meal Preferences</option>
-                                            <option>Chicken Soup</option>
-                                            <option>Motton Kabab</option>
-                                            <option>Chicken BBQ</option>
-                                            <option>Mix Salad</option>
-                                            <option>Beef Ribs</option>
+                                            <option disabled="disabled" selected>Choose Type</option>
+                                            <option>Wedding Photography</option>
+                                            <option>Birthday Photography</option>
+                                            <option>Studio Photoshoot</option>
+                                            <option>Maternity Photography</option>
+                                            <option>Newborn Photography</option>
+                                            <option>Family Photoshoot</option>
+                                            <option>Headshot</option>
+                                            <option>Outdoor Photoshoot</option>
+                                            <option>Portrait Session</option>
                                         </select>
                                     </div>
                                     <div class="submit-area">

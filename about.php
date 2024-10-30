@@ -8,7 +8,7 @@
     <meta name="author" content="wpOceans">
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
     <title> Photography Template - FrogBID </title>
-   <?php include ('includes/css.php');?>
+    <?php include('includes/css.php'); ?>
 </head>
 
 <body>
@@ -16,11 +16,11 @@
 <!-- start page-wrapper -->
 <div class="page-wrapper">
     <!-- start preloader -->
-    <?php include ('includes/preloader.php');?>
+    <?php include('includes/preloader.php'); ?>
     <!-- end preloader -->
 
     <!-- Start header -->
-<?php include ('includes/inner_header.php');?>
+    <?php include('includes/inner_header.php'); ?>
     <!-- end of header -->
 
     <!-- start wpo-page-title -->
@@ -56,12 +56,13 @@
                         <div class="wpo-about-text wow fadeInRightSlow" data-wow-duration="1600ms">
                             <h2>About Us</h2>
                             <h4>We Are The Best Wedding Planner & Decor.</h4>
-                            <p>Convallis gravida odio viverra nisi, aliquam sem netus. Sed at semper at lacus.
-                                Nam integer nunc pellentesque nunc pulvinar donec scelerisque. Malesuada massa
-                                facilisis aliquam nunc ut nisl tincidunt nibh. Massa feugiat vitae habitant
-                                metus viverra. Praesent massa habitant sapien odio ac scelerisque praesent id.
+                            <p>Love Love is a team of experienced professional photographers, cinematographers, and
+                                photo-book experts who are dedicated to creating stunning, authentic stories of people's
+                                lives. With a passion for capturing the essence of every event, no matter how big or
+                                small, our team has the skills, resources, and creativity to design and implement your
+                                dream event.
                             </p>
-                            <a href="contact.html" class="theme-btn">APPOINMENT</a>
+                            <a href="Contact" class="theme-btn">APPOINMENT</a>
                         </div>
                     </div>
                 </div>
@@ -72,12 +73,12 @@
                         <div class="wpo-about-text wow fadeInLeftSlow" data-wow-duration="1700ms">
                             <h2>Our Story</h2>
                             <h4>Our Company Has a Great Mission & Policy</h4>
-                            <p>Convallis gravida odio viverra nisi, aliquam sem netus. Sed at semper at lacus.
-                                Nam integer nunc pellentesque nunc pulvinar donec scelerisque. Malesuada massa
-                                facilisis aliquam nunc ut nisl tincidunt nibh. Massa feugiat vitae habitant
-                                metus viverra. Praesent massa habitant sapien odio ac scelerisque praesent id.
+                            <p>Whether you're planning a wedding, engagement, or any other special event, let Love Love
+                                help you create an unforgettable experience that you and your guests will cherish
+                                forever. Contact us today to learn more about our services and to schedule a
+                                consultation with one of our expert photographers or cinematographers.
                             </p>
-                            <a href="contact.html" class="theme-btn">CONTACT US</a>
+                            <a href="Contact" class="theme-btn">CONTACT US</a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 col-12 order-lg-2 order-1">
@@ -107,7 +108,7 @@
                                 <img src="assets/images/service/img-1.jpg" alt="">
                             </div>
                             <div class="wpo-Service-text">
-                                <a href="service-single.html">Wedding Dress</a>
+                                <a href="#">Wedding Photography</a>
                             </div>
                         </div>
                     </div>
@@ -117,7 +118,7 @@
                                 <img src="assets/images/service/img-2.jpg" alt="">
                             </div>
                             <div class="wpo-Service-text">
-                                <a href="service-single.html">Event Planning</a>
+                                <a href="#">Studio Photoshoot</a>
                             </div>
                         </div>
                     </div>
@@ -127,7 +128,7 @@
                                 <img src="assets/images/service/img-3.jpg" alt="">
                             </div>
                             <div class="wpo-Service-text">
-                                <a href="service-single.html">Photography</a>
+                                <a href="#">Family Photoshoot</a>
                             </div>
                         </div>
                     </div>
@@ -137,7 +138,7 @@
                                 <img src="assets/images/service/img-4.jpg" alt="">
                             </div>
                             <div class="wpo-Service-text">
-                                <a href="service-single.html">Cake Design</a>
+                                <a href="#">Outdoor Photoshoot</a>
                             </div>
                         </div>
                     </div>
@@ -306,88 +307,9 @@
     <!-- end wpo-team-section -->
 
     <!-- start wpo-pricing-section -->
-    <section class="wpo-pricing-section section-padding pt-0">
-        <div class="container">
-            <div class="wpo-section-title">
-                <h4>Choose Yours</h4>
-                <h2>Wedding Packages</h2>
-            </div>
-            <div class="wpo-pricing-wrap">
-                <div class="row">
-                    <div class="col col-lg-4 col-md-6 col-12">
-                        <div class="wpo-pricing-item">
-                            <div class="wpo-pricing-top">
-                                <div class="wpo-pricing-text">
-                                    <h4>Basic Package</h4>
-                                    <h2>$250<span>/Monthly</span></h2>
-                                </div>
-                            </div>
-                            <div class="shape"><img src="assets/images/pricing/p-shape.svg" alt=""></div>
-                            <div class="wpo-pricing-bottom">
-                                <div class="wpo-pricing-bottom-text">
-                                    <ul>
-                                        <li>Stylish makeup for bride.</li>
-                                        <li>Top label arrengement</li>
-                                        <li>Amazing meal & breakfast</li>
-                                        <li>Manicure & Pedicure</li>
-                                        <li>Full body Polish</li>
-                                    </ul>
-                                    <a class="theme-btn" href="pricing.html">Choose Plan</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col col-lg-4 col-md-6 col-12">
-                        <div class="wpo-pricing-item">
-                            <div class="wpo-pricing-top">
-                                <div class="wpo-pricing-text">
-                                    <h4>Standard Package</h4>
-                                    <h2>$550<span>/Monthly</span></h2>
-                                </div>
-                            </div>
-                            <div class="shape"><img src="assets/images/pricing/p-shape.svg" alt=""></div>
-                            <div class="wpo-pricing-bottom">
-                                <div class="wpo-pricing-bottom-text">
-                                    <ul>
-                                        <li>Stylish makeup for bride.</li>
-                                        <li>Top label arrengement</li>
-                                        <li>Amazing meal & breakfast</li>
-                                        <li>Manicure & Pedicure</li>
-                                        <li>Full body Polish</li>
-                                    </ul>
-                                    <a class="theme-btn" href="pricing.html">Choose Plan</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col col-lg-4 col-md-6 col-12">
-                        <div class="wpo-pricing-item">
-                            <div class="wpo-pricing-top">
-                                <div class="wpo-pricing-text">
-                                    <h4>Luxary Package</h4>
-                                    <h2>$880<span>/Monthly</span></h2>
-                                </div>
-                            </div>
-                            <div class="shape"><img src="assets/images/pricing/p-shape.svg" alt=""></div>
-                            <div class="wpo-pricing-bottom">
-                                <div class="wpo-pricing-bottom-text">
-                                    <ul>
-                                        <li>Stylish makeup for bride.</li>
-                                        <li>Top label arrengement</li>
-                                        <li>Amazing meal & breakfast</li>
-                                        <li>Manicure & Pedicure</li>
-                                        <li>Full body Polish</li>
-                                    </ul>
-                                    <a class="theme-btn" href="pricing.html">Choose Plan</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+<?php include ('includes/pricing.php');?>
     <!-- start wpo-pricing-section -->
+
     <!-- start wpo-partners-section -->
     <section class="wpo-partners-section section-padding">
         <h2 class="hidden">Partners</h2>
@@ -418,7 +340,7 @@
     <!-- end wpo-partners-section-->
 
     <!-- wpo-site-footer start -->
-    <?php include ('includes/footer.php');?>
+    <?php include('includes/footer.php'); ?>
     <!-- wpo-site-footer end -->
 
 

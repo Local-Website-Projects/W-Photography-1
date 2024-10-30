@@ -104,17 +104,20 @@
                                 <input type="email" class="form-control" name="email" id="email" placeholder="Your Email*">
                             </div>
                             <div>
-                                <input type="text" class="form-control" name="adress" id="adress" placeholder="Adress">
+                                <input type="text" class="form-control" name="contact_no" id="contact_no" placeholder="Contact Number">
                             </div>
                             <div>
                                 <select name="service" class="form-control">
                                     <option disabled="disabled" selected="">Services</option>
-                                    <option>Photography</option>
-                                    <option>The Rehearsal Dinner</option>
-                                    <option>The Afterparty</option>
-                                    <option>Videographers</option>
-                                    <option>Perfect Cake</option>
-                                    <option>All Of The Above</option>
+                                    <option>Wedding Photography</option>
+                                    <option>Birthday Photography</option>
+                                    <option>Studio Photoshoot</option>
+                                    <option>Maternity Photography</option>
+                                    <option>Newborn Photography</option>
+                                    <option>Family Photoshoot</option>
+                                    <option>Headshot</option>
+                                    <option>Outdoor Photoshoot</option>
+                                    <option>Portrait Session</option>
                                 </select>
                             </div>
                             <div class="fullwidth">
